@@ -1,0 +1,34 @@
+[
+  {
+    "id": "shorekeeper",
+    "name": "守岸人",
+    "title": "入队1",
+    "file": "voices/shorekeeper.wav",
+    "source": "https://wiki.kurobbs.com/mc/item/1286814658335739904",
+    "audioSource": "https://web-static.kurobbs.com/wiki_audio/1732543339385822429.wav"
+  },
+  {
+    "id": "hiyuki",
+    "name": "绯雪",
+    "title": "入队1",
+    "file": "voices/hiyuki.wav",
+    "source": "https://wiki.kurobbs.com/mc/item/1488853937364017152",
+    "audioSource": "https://web-static.kurobbs.com/wiki_audio/1777387586788145185.wav"
+  },
+  {
+    "id": "aemeath",
+    "name": "爱弥斯",
+    "title": "入队1",
+    "file": "voices/aemeath.wav",
+    "source": "https://wiki.kurobbs.com/mc/item/1457744312692867072",
+    "audioSource": "https://web-static.kurobbs.com/wiki_audio/1770098285422339372.wav"
+  },
+  {
+    "id": "denia",
+    "name": "达妮娅",
+    "title": "入队1",
+    "file": "voices/denia.wav",
+    "source": "https://wiki.kurobbs.com/mc/item/1488852222116831232",
+    "audioSource": "https://web-static.kurobbs.com/wiki_audio/1777486700840123259.wav"
+  }
+]
